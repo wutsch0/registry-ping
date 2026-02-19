@@ -1,0 +1,5 @@
+state_file: state.json  # default: state.json in cwd; use absolute path in production
+
+images:
+  - ref: php:8.2.30-fpm
+  - ref: adminer:latest
