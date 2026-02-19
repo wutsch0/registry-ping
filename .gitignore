@@ -3,4 +3,5 @@
 
 # Build and run artifacts
 state.json
+config.yaml
 /registry-ping
